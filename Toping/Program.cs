@@ -3,7 +3,7 @@ using System.IO;
 
 namespace Toping
 {
-    class Programs
+    class Program
     {
         static void Main(string[] args)
         {
