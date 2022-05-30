@@ -1,0 +1,15 @@
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\bin\Debug\net5.0\Toping.exe
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\bin\Debug\net5.0\Toping.deps.json
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\bin\Debug\net5.0\Toping.runtimeconfig.json
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\bin\Debug\net5.0\Toping.runtimeconfig.dev.json
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\bin\Debug\net5.0\Toping.dll
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\bin\Debug\net5.0\ref\Toping.dll
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\bin\Debug\net5.0\Toping.pdb
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\obj\Debug\net5.0\Toping.GeneratedMSBuildEditorConfig.editorconfig
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\obj\Debug\net5.0\Toping.AssemblyInfoInputs.cache
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\obj\Debug\net5.0\Toping.AssemblyInfo.cs
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\obj\Debug\net5.0\Toping.csproj.CoreCompileInputs.cache
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\obj\Debug\net5.0\Toping.dll
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\obj\Debug\net5.0\ref\Toping.dll
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\obj\Debug\net5.0\Toping.pdb
+D:\UserDocs\Users\LXDY-R5\Desktop\Toping\Toping\Toping\obj\Debug\net5.0\Toping.genruntimeconfig.cache
